@@ -1,37 +1,17 @@
-# [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)
+# [React Firebase Datta Able](https://app-generator.dev/product/datta-able/firebase/react/)
 
-**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. 
-The product comes with **Firebase** integration.
+**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with **Firebase** integration.
+
+- [React Firebase Datta Able](https://app-generator.dev/product/datta-able/firebase/react/) - `Product page`
+- [React Firebase Datta Able](https://react-firebase-datta-able.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
 
-> Features
+## Features
 
 - Firebase Integration - Social Login (Google)
-- Modern aesthetics UI design - Designed by [CodedThemes](https://codedthemes.com/)
+- Modern aesthetics UI design - Designed by [CodedThemes](https://app-generator.dev/agency/codedthemes/)
 - React, Redux, Redux-persist
-
-<br />
-
-> Links
-
-- [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - product page
-- [React Firebase Datta Able](https://react-firebase-datta-able.appseed-srv1.com/) - LIVE Demo
-- Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
-
-<br />
-
-## Want more? Go PRO!
-
-PRO versions include **Premium [React Kits](https://appseed.us/apps/react)**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [React Firebase Datta PRO](https://appseed.us/product/react-firebase-datta-able-pro) | [React Node JS Material Kit](https://appseed.us/product/react-node-js-material-kit-pro) |[React Node JS Datta PRO](https://appseed.us/product/react-node-js-datta-able-pro) | 
-| --- | --- | --- |
-| [![React Firebase Datta PRO](https://user-images.githubusercontent.com/51070104/129069303-d2a9505f-0b1b-4b16-b41a-e4c08c27ad33.png)](https://appseed.us/product/react-firebase-datta-able-pro) | [![React Node JS Material KIT](https://user-images.githubusercontent.com/51070104/128535389-a09c68c2-02ec-4eb9-bad9-6bafcee85b10.png)](https://appseed.us/product/react-node-js-material-kit-pro) | [![React Node JS Datta PRO](https://user-images.githubusercontent.com/51070104/126295682-6e89cdd8-455f-4f44-bb3c-0302d02c34a2.png)](https://appseed.us/product/react-node-js-datta-able-pro) 
-
-<br /> 
-
-![React Firebase Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/129069147-80f810e7-74cb-425b-9b04-03bc501e8f7a.png)
 
 <br />
 
@@ -95,4 +75,4 @@ All above settings are provided by the Firebase platform. For more information, 
 <br />
 
 ---
-[React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[React Firebase Datta Able](https://app-generator.dev/product/datta-able/firebase/react/) - Provided by [CodedThemes](https://app-generator.dev/agency/codedthemes/) and **[App Generator](https://app-generator.dev/)**.
