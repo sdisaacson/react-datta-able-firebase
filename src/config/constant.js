@@ -26,12 +26,12 @@ export const CONFIG = {
     layout6Background: 'linear-gradient(to right, #A445B2 0%, #D41872 52%, #FF0066 100%)', // disable on free version
     layout6BackSize: '', // disable on free version
     firebase: {
-        apiKey: 'YOUR_API_KEY',
-        authDomain: 'YOUR_DOMAIN_HERE',
-        projectId: 'YOUR_PROJECT_ID',
-        storageBucket: 'YOUR_STORAGE_BUCKET',
-        messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-        appId: 'YOUR_APP_ID',
-        measurementId: 'YOUR_TRACKER_ID'
+        apiKey: 'AIzaSyAoyXGnIj5oICmry9N3OA796FscWpYFGJw',
+        authDomain: 'datta-able-e0e44.firebaseapp.com',
+        projectId: 'datta-able-e0e44',
+        storageBucket: 'datta-able-e0e44.firebasestorage.app',
+        messagingSenderId: '1032063596251',
+        appId: '1:1032063596251:web:2f7133a22601589e4b7efe',
+        measurementId: 'G-N9922J2KBP'
     }
 };
